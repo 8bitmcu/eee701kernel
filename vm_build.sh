@@ -27,3 +27,4 @@ tar -xf minimal.tgz
 
 # make debirf
 debirf make -k ../linux-image-$VERSION_i386.deb minimal
+debird makeiso minimal
