@@ -30,7 +30,7 @@ kernel() {
   cp /host/.config /$KERNEL/
   
   # compile kernel & package
-  make-kpkg kernel_image
+  make-kpkg --revision=0 kernel_image
 }
 
 image() {
