@@ -1,6 +1,6 @@
 # eee701kernel
 
-This git repo contains code to helps cross-compile a custom kernel for the EEE 701.
+This git repo contains a Dockerfile and .config which helps build a custom kernel tailored for the EEE 701.
 
 
 How to use
